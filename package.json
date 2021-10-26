@@ -1,0 +1,16 @@
+{
+  "name": "twitter_bots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^10.0.0",
+    "twitter-api-client": "^1.4.0"
+  }
+}
